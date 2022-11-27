@@ -1,0 +1,8 @@
+C:\Users\Decagon\Documents\.Net\BankApp\BankApp\bin\Debug\BankApp.exe.config
+C:\Users\Decagon\Documents\.Net\BankApp\BankApp\bin\Debug\BankApp.exe
+C:\Users\Decagon\Documents\.Net\BankApp\BankApp\bin\Debug\BankApp.pdb
+C:\Users\Decagon\Documents\.Net\BankApp\BankApp\obj\Debug\BankApp.csproj.AssemblyReference.cache
+C:\Users\Decagon\Documents\.Net\BankApp\BankApp\obj\Debug\BankApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Decagon\Documents\.Net\BankApp\BankApp\obj\Debug\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Documents\.Net\BankApp\BankApp\obj\Debug\BankApp.exe
+C:\Users\Decagon\Documents\.Net\BankApp\BankApp\obj\Debug\BankApp.pdb
